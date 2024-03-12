@@ -1,5 +1,5 @@
 <h1  align="center">Santosh Kumar Dhawal</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="coding" width="400"  src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gith05&label=Profile%20views&color=0e75b6&style=flat" alt="gith05" /> </p>
