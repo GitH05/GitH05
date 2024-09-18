@@ -1,4 +1,6 @@
-<h1  align="center">_____FEED SOMEONE FEED YOUR SOUL_____</h1>
+<h1  align="center">_______FEED SOMEONE FEED YOUR SOUL_______</h1>
+
+<h3 align="center">_______BLACK STAR_______</h3>
 <h3 align="center">Developer</h3>
 <img align="right" alt="coding" width="400"  src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413">
 
