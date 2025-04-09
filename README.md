@@ -2,7 +2,7 @@
 
 <h3 align="center">BLACK STAR</h3>
 <h3 align="center">_______Developer_______</h3>
-<img align="right" alt="coding" width="400"  src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413">
+<img align="right" alt="coding" width="400"  src="https://github.com/GitH05/GitH05/blob/main/download.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gith05&label=Profile%20views&color=0e75b6&style=flat" alt="gith05" /> </p>
 
