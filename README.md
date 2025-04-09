@@ -1,4 +1,4 @@
-<h1  align="center" font-weight="bold">Coding_____</h1>
+<h1  align="center">Coding_____</h1>
 
 <h3 align="center">BLACK STAR</h3>
 <h3 align="center">_______Developer_______</h3>
