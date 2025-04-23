@@ -1,6 +1,3 @@
-<h1  align="center">Coding_____</h1>
-
-<h3 align="center">BLACK STAR</h3>
 <h3 align="center">_______Developer_______</h3>
 <img align="right" alt="coding" width="400"  src="https://github.com/GitH05/GitH05/blob/main/download.png">
 
