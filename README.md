@@ -1,5 +1,5 @@
-<h3 align="center">Java Developer</h3>
-<img align="right" alt="coding" width="400"  src="https://github.com/GitH05/GitH05/blob/main/download.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=700&color=ERK51&center=true&vCenter=true&width=1100&lines=Technology+matters+most+when+it+serves+people+quietly+and+well." />
+<img align="right" alt="coding" width="400"  src="https://github.com/GitH05/GitH05/blob/main/download.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gith05&label=Profile%20views&color=0e75b6&style=flat" alt="gith05" /> </p>
 
