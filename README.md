@@ -1,11 +1,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=700&color=ERK51&center=true&vCenter=true&width=1100&lines=Technology+matters+most+when+it+serves+people+quietly+and+well." />
-<img align="right" alt="coding" width="400"  src="https://github.com/GitH05/GitH05/blob/main/download.gif">
+<img align="right" alt="coding" width="650"  src="https://github.com/GitH05/GitH05/blob/main/banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gith05&label=Profile%20views&color=0e75b6&style=flat" alt="gith05" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me
+<marquee behavior="alternate" direction="down" height="100">- 📫 How to reach me</marquee>
 - <a href="https://portfolio-td16.vercel.app/">Connect Here</a>
 - **santoshdhawal05@gmail.com**
 
