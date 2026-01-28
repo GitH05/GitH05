@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<marquee behavior="alternate" direction="down" height="100">- 📫 How to reach me</marquee>
+- 📫 How to reach me
 - <a href="https://portfolio-td16.vercel.app/">Connect Here</a>
 - **santoshdhawal05@gmail.com**
 
