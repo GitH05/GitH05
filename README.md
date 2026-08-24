@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me
-- <a href="https://portfolio-td16.vercel.app/">Connect Here</a>
+- <a href="https://skd05.vercel.app/">Connect</a>
 - **santoshdhawal05@gmail.com**
 
 
