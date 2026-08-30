@@ -1,64 +1,227 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=700&color=ERK51&center=true&vCenter=true&width=1100&lines=Technology+matters+most+when+it+serves+people+quietly+and+well." />
-<img align="right" alt="coding" height="1000" width="600"  src="https://github.com/GitH05/GitH05/blob/main/banner.png">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gith05&label=Profile%20views&color=0e75b6&style=flat" alt="gith05" /> </p>
+<!--                        ANIMATED HERO                           -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-- 📫 How to reach me
-- <a href="https://skd05.vercel.app/">Connect</a>
-- **santoshdhawal05@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/santoshkd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh kumar dhawal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/santosh.dhawal.58?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh kumar dhawal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/santosh.dhawal.58?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhawal4849" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&height=70&lines=Hey%2C+I'm+Santosh+%F0%9F%91%8B;I'm+a+Developer.;I+Build.+I+Solve.+I+Learn.;Turning+Ideas+Into+Digital+Experiences." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18,20&section=header&text=SANTOSH%20KUMAR%20DHAWAL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=15" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gith05&show_icons=true&locale=en&layout=compact" alt="gith05" /></p>
+<p align="center">
+  <a href="https://skd05.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&labelColor=111827" />
+  </a>
+  <a href="https://www.linkedin.com/in/santoshkd5">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  </a>
+  <a href="mailto:santoshdhawal05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gith05&show_icons=true&locale=en" alt="gith05" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gith05&" alt="GitH05" /></p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         INTRODUCTION                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="380" src="https://github.com/GitH05/GitH05/blob/main/banner.png">
+
+## `> whoami`
+
+I'm **Santosh**, a developer who enjoys turning ideas into things people can actually use.
+
+I believe great software is a combination of:
+
+**Curiosity × Problem Solving × Creativity × Consistency**
+
+I'm interested in building meaningful products, exploring new ideas, solving challenging problems, and continuously becoming a better developer.
+
+<br>
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│   BUILD        →  Create                 │
+│   SOLVE        →  Understand              │
+│   LEARN        →  Improve                 │
+│   EXPLORE      →  Discover                │
+│   REPEAT       →  Grow                    │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         CURRENTLY                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⚡ Currently</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+things+that+matter.;Exploring+new+ideas.;Improving+my+craft.;Turning+problems+into+solutions." />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 🧠
+
+**Learning**
+
+Always exploring
+new concepts
+
+</td>
+
+<td align="center" width="200">
+
+### 🛠️
+
+**Building**
+
+Turning ideas
+into products
+
+</td>
+
+<td align="center" width="200">
+
+### 🔍
+
+**Solving**
+
+Breaking down
+complex problems
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+**Growing**
+
+One commit
+at a time
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       GITHUB ACTIVITY                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitH05&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitH05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitH05&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitH05&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        BEYOND CODE                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏏 Beyond Code</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏏%20Cricket-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚽%20Football-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏐%20Volleyball-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💪%20Fitness-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Because life shouldn't happen only behind a screen.
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         CONNECT                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌌 Let's Connect</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=17&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Have+an+idea%3F+Let's+talk.;Want+to+build+something%3F+Let's+connect.;Always+open+to+interesting+conversations." />
+</p>
+
+<p align="center">
+  <a href="https://skd05.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santoshkd5">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GitH05">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           FOOTER                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GitH05&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,18,20&section=footer&animation=twinkling" />
+</p>
